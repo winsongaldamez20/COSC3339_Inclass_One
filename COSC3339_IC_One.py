@@ -120,6 +120,6 @@ def main():
      else:
          print("Data invalid")
     
-    print("\n--- END OF TESTS ---")
+    #print("\n--- END OF TESTS ---")
 
 main()
