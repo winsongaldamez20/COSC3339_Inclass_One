@@ -75,9 +75,9 @@ def validate_input(text_value):
     return valud_imput
 def process_user_data(user_input):
     if validate_input(user_input):
-        return true
+        return True
     else:
-        return false
+        return False
         
 
 def main():
